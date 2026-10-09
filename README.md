@@ -4,7 +4,7 @@
 
 I have several years of experience in enterprise and production IT operations, with a focus on system availability, Linux and Windows environments, networking, incident management, and technical troubleshooting.
 
-I am currently transitioning further into **Cloud Infrastructure and DevOps**, building hands-on project experience with AWS, Terraform, Jenkins, Docker, CI/CD, and Kubernetes.
+I am currently expanding my focus into **Cloud Infrastructure and DevOps**, with hands-on project experience using AWS, Terraform, Jenkins, Docker, CI/CD, and Kubernetes.
 
 ## Featured Projects
 
