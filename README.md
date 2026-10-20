@@ -16,7 +16,7 @@ End-to-end CI/CD pipeline for a Java/Spring Boot application using Jenkins Multi
 
 ### AWS Infrastructure with Terraform
 
-Modular Terraform project for provisioning AWS infrastructure including VPC, subnet, Internet Gateway, routing, Security Groups, EC2, and automated Docker/nginx deployment through EC2 User Data.
+Modular Terraform project for provisioning AWS infrastructure including VPC, subnet, Internet Gateway, routing, Security Group, EC2, and automated Docker/nginx deployment through EC2 User Data.
 
 [View repository](https://github.com/Johnpaul790/terraform-aws-docker-nginx)
 
