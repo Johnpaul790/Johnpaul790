@@ -20,12 +20,6 @@ Modular Terraform project for provisioning AWS infrastructure including VPC, sub
 
 [View repository](https://github.com/Johnpaul790/terraform-aws-docker-nginx)
 
-## Currently Working On
-
-- Preparing for **HashiCorp Certified: Terraform Associate (004)**
-- Expanding my practical Kubernetes knowledge
-- Building deeper hands-on experience in Cloud Infrastructure and Infrastructure as Code
-
 ## Core Technologies
 
 **Infrastructure:** Linux · Windows · TCP/IP · DNS · DHCP · VLAN  
