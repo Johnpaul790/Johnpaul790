@@ -1,3 +1,4 @@
+
 # Hi, I'm Johnpaul
 
 **IT Operations Engineer | Cloud & Infrastructure**
@@ -8,23 +9,34 @@ I am currently expanding my focus into **Cloud Infrastructure and DevOps**, with
 
 ## Featured Projects
 
+### AWS EKS with Terraform & Kubernetes
+
+Provisioned an Amazon EKS cluster with Terraform and deployed two NGINX replicas. Configured an internet-facing AWS Network Load Balancer with IP targets using the AWS Load Balancer Controller, Helm, and IAM Roles for Service Accounts (IRSA). Verified both Pods and load balancer targets as healthy.
+
+[View repository](https://github.com/Johnpaul790/terraform-aws-eks-kubernetes-nginx)
+
 ### CI/CD Pipeline with Jenkins, Docker & AWS EC2
 
-End-to-end CI/CD pipeline for a Java/Spring Boot application using Jenkins Multibranch Pipeline, automated testing, Docker image versioning, Jenkins Shared Libraries, GitHub webhooks, and automated deployment to AWS EC2.
+Built a Jenkins Multibranch Pipeline for a Java/Spring Boot application, including automated builds and tests, Docker image publishing, and deployment to AWS EC2 using a reusable Jenkins Shared Library.
 
 [View repository](https://github.com/Johnpaul790/jenkins-java-maven-cicd)
 
 ### AWS Infrastructure with Terraform
 
-Modular Terraform project for provisioning AWS infrastructure including VPC, subnet, Internet Gateway, routing, Security Group, EC2, and automated Docker/nginx deployment through EC2 User Data.
+Used modular Terraform configuration to provision AWS networking and an EC2 instance, with automated Docker/NGINX deployment through EC2 User Data.
 
 [View repository](https://github.com/Johnpaul790/terraform-aws-docker-nginx)
 
 ## Core Technologies
 
-**Infrastructure:** Linux · Windows · TCP/IP · DNS · DHCP · VLAN  
-**Cloud & IaC:** AWS · Terraform  
-**DevOps:** Jenkins · Docker · CI/CD · Git · GitHub · GitLab  
+**Infrastructure:** Linux · Windows · TCP/IP · DNS · DHCP · VLAN
+
+**Cloud & IaC:** AWS (EKS, EC2, VPC, IAM) · Terraform
+
+**Containers & Kubernetes:** Kubernetes · Docker · Helm
+
+**DevOps & CI/CD:** Jenkins · Git · GitHub · GitLab · Maven
+
 **Automation:** Bash · PowerShell · Python
 
 ## Connect
